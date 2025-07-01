@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from "react";
 import image01 from "../Images/img01.svg";
 import image02 from "../Images/img02.png";
-import img1 from "../images/img3.png";
-import img3 from "../images/img3.png";
-import img4 from "../images/img4.png";
-import img5 from "../images/img6.png";
+import img1 from "../Images/img3.png";
+import img3 from "../Images/img3.png";
+import img4 from "../Images/img4.png";
+import img5 from "../Images/img6.png";
 import bookimg from "../Images/book.png";
 import img01 from "../Images/myImage1.png";
 import img02 from "../Images/myImage2.png";
